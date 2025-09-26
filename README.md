@@ -1,3 +1,4 @@
 # shriyash
 This is my first Git repository
-Author-Shriyash
+Author-Shriyash patil
+
